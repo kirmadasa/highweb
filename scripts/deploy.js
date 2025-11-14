@@ -18,6 +18,8 @@ const filesToCopy = [
   'styles.css',
   'pages-list.html',
   'pages-list.js',
+  'shortcuts-settings.html',
+  'shortcuts-settings.js',
   'constants.js',
   'controls.js'
 ];

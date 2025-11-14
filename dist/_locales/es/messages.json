@@ -172,5 +172,32 @@
   },
   "sortOldestFirst": {
     "message": "Ordenar por tiempo (más antiguo primero)"
+  },
+  "shortcutsSettingsTitle": {
+    "message": "Configuración de Atajos de Teclado"
+  },
+  "shortcutsDescription": {
+    "message": "Personaliza los atajos de teclado para resaltar texto con diferentes colores."
+  },
+  "chromeShortcutsInfo": {
+    "message": "Para personalizar los atajos de teclado en Chrome:<br/>1. Haz clic en el botón \"Abrir Atajos de Chrome\" a continuación, o<br/>2. Navega a <strong>chrome://extensions/shortcuts</strong><br/>3. Encuentra \"Marks: Text Highlighter\" y personaliza tus atajos"
+  },
+  "firefoxShortcutsInfo": {
+    "message": "Para personalizar los atajos de teclado en Firefox:<br/>1. Navega a <strong>about:addons</strong><br/>2. Haz clic en el icono de engranaje y selecciona \"Administrar atajos de extensión\"<br/>3. Encuentra \"Marks: Text Highlighter\" y personaliza tus atajos"
+  },
+  "openChromeShortcuts": {
+    "message": "Abrir Atajos de Chrome"
+  },
+  "backToPopup": {
+    "message": "Volver al Popup"
+  },
+  "notSet": {
+    "message": "No establecido"
+  },
+  "chromeUpdateRequired": {
+    "message": "Tu versión de Chrome puede no soportar actualizaciones programáticas de atajos. Por favor, usa chrome://extensions/shortcuts para personalizar los atajos."
+  },
+  "keyboardShortcuts": {
+    "message": "Atajos de Teclado"
   }
 }

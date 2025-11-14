@@ -175,5 +175,32 @@
   },
   "sortOldestFirst": {
     "message": "Sort by time (oldest first)"
+  },
+  "shortcutsSettingsTitle": {
+    "message": "Keyboard Shortcuts Settings"
+  },
+  "shortcutsDescription": {
+    "message": "Customize keyboard shortcuts for highlighting text with different colors."
+  },
+  "chromeShortcutsInfo": {
+    "message": "To customize keyboard shortcuts in Chrome:<br/>1. Click the \"Open Chrome Shortcuts\" button below, or<br/>2. Navigate to <strong>chrome://extensions/shortcuts</strong><br/>3. Find \"Marks: Text Highlighter\" and customize your shortcuts"
+  },
+  "firefoxShortcutsInfo": {
+    "message": "To customize keyboard shortcuts in Firefox:<br/>1. Navigate to <strong>about:addons</strong><br/>2. Click the gear icon and select \"Manage Extension Shortcuts\"<br/>3. Find \"Marks: Text Highlighter\" and customize your shortcuts"
+  },
+  "openChromeShortcuts": {
+    "message": "Open Chrome Shortcuts"
+  },
+  "backToPopup": {
+    "message": "Back to Popup"
+  },
+  "notSet": {
+    "message": "Not set"
+  },
+  "chromeUpdateRequired": {
+    "message": "Your Chrome version may not support programmatic shortcut updates. Please use chrome://extensions/shortcuts to customize shortcuts."
+  },
+  "keyboardShortcuts": {
+    "message": "Keyboard Shortcuts"
   }
 }

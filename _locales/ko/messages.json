@@ -175,5 +175,32 @@
   },
   "sortOldestFirst": {
     "message": "시간순 정렬 (오래된 순)"
+  },
+  "shortcutsSettingsTitle": {
+    "message": "키보드 단축키 설정"
+  },
+  "shortcutsDescription": {
+    "message": "텍스트를 다양한 색상으로 하이라이트하기 위한 키보드 단축키를 사용자 정의하세요."
+  },
+  "chromeShortcutsInfo": {
+    "message": "Chrome에서 키보드 단축키를 사용자 정의하려면:<br/>1. 아래 \"Chrome 단축키 열기\" 버튼을 클릭하거나<br/>2. <strong>chrome://extensions/shortcuts</strong>로 이동<br/>3. \"Marks: Text Highlighter\"를 찾아 단축키를 사용자 정의하세요"
+  },
+  "firefoxShortcutsInfo": {
+    "message": "Firefox에서 키보드 단축키를 사용자 정의하려면:<br/>1. <strong>about:addons</strong>로 이동<br/>2. 톱니바퀴 아이콘을 클릭하고 \"확장 기능 단축키 관리\"를 선택<br/>3. \"Marks: Text Highlighter\"를 찾아 단축키를 사용자 정의하세요"
+  },
+  "openChromeShortcuts": {
+    "message": "Chrome 단축키 열기"
+  },
+  "backToPopup": {
+    "message": "팝업으로 돌아가기"
+  },
+  "notSet": {
+    "message": "설정되지 않음"
+  },
+  "chromeUpdateRequired": {
+    "message": "현재 Chrome 버전은 프로그래밍 방식의 단축키 업데이트를 지원하지 않을 수 있습니다. chrome://extensions/shortcuts를 사용하여 단축키를 사용자 정의하세요."
+  },
+  "keyboardShortcuts": {
+    "message": "키보드 단축키"
   }
 }

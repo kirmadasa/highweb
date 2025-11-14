@@ -413,6 +413,11 @@ document.addEventListener('DOMContentLoaded', async function () {
     });
   });
 
+  // Keyboard shortcuts button
+  document.getElementById('keyboard-shortcuts').addEventListener('click', () => {
+    browserAPI.tabs.create({ url: 'shortcuts-settings.html' });
+  });
+
   // Initialization
   await loadHighlights();
   await loadMinimapSetting();

@@ -80,6 +80,8 @@
       "resources": [
         "pages-list.html",
         "pages-list.js",
+        "shortcuts-settings.html",
+        "shortcuts-settings.js",
         "images/icon48.png"
       ],
       "matches": [

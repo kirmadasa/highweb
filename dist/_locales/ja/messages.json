@@ -175,5 +175,32 @@
   },
   "sortOldestFirst": {
     "message": "時間順ソート（古い順）"
+  },
+  "shortcutsSettingsTitle": {
+    "message": "キーボードショートカット設定"
+  },
+  "shortcutsDescription": {
+    "message": "テキストをさまざまな色でハイライトするためのキーボードショートカットをカスタマイズします。"
+  },
+  "chromeShortcutsInfo": {
+    "message": "Chromeでキーボードショートカットをカスタマイズするには:<br/>1. 下の「Chromeショートカットを開く」ボタンをクリックするか<br/>2. <strong>chrome://extensions/shortcuts</strong>に移動<br/>3. 「Marks: Text Highlighter」を見つけてショートカットをカスタマイズします"
+  },
+  "firefoxShortcutsInfo": {
+    "message": "Firefoxでキーボードショートカットをカスタマイズするには:<br/>1. <strong>about:addons</strong>に移動<br/>2. 歯車アイコンをクリックして「拡張機能のショートカットを管理」を選択<br/>3. 「Marks: Text Highlighter」を見つけてショートカットをカスタマイズします"
+  },
+  "openChromeShortcuts": {
+    "message": "Chromeショートカットを開く"
+  },
+  "backToPopup": {
+    "message": "ポップアップに戻る"
+  },
+  "notSet": {
+    "message": "未設定"
+  },
+  "chromeUpdateRequired": {
+    "message": "お使いのChromeバージョンは、プログラムによるショートカットの更新をサポートしていない可能性があります。chrome://extensions/shortcutsを使用してショートカットをカスタマイズしてください。"
+  },
+  "keyboardShortcuts": {
+    "message": "キーボードショートカット"
   }
 }

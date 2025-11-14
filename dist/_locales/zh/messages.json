@@ -175,5 +175,32 @@
   },
   "sortOldestFirst": {
     "message": "按时间排序（最旧优先）"
+  },
+  "shortcutsSettingsTitle": {
+    "message": "键盘快捷键设置"
+  },
+  "shortcutsDescription": {
+    "message": "自定义用不同颜色突出显示文本的键盘快捷键。"
+  },
+  "chromeShortcutsInfo": {
+    "message": "在Chrome中自定义键盘快捷键：<br/>1. 点击下面的"打开Chrome快捷键"按钮，或<br/>2. 导航到 <strong>chrome://extensions/shortcuts</strong><br/>3. 找到"Marks: Text Highlighter"并自定义您的快捷键"
+  },
+  "firefoxShortcutsInfo": {
+    "message": "在Firefox中自定义键盘快捷键：<br/>1. 导航到 <strong>about:addons</strong><br/>2. 点击齿轮图标并选择"管理扩展快捷键"<br/>3. 找到"Marks: Text Highlighter"并自定义您的快捷键"
+  },
+  "openChromeShortcuts": {
+    "message": "打开Chrome快捷键"
+  },
+  "backToPopup": {
+    "message": "返回弹窗"
+  },
+  "notSet": {
+    "message": "未设置"
+  },
+  "chromeUpdateRequired": {
+    "message": "您的Chrome版本可能不支持程序化快捷键更新。请使用chrome://extensions/shortcuts自定义快捷键。"
+  },
+  "keyboardShortcuts": {
+    "message": "键盘快捷键"
   }
 }
