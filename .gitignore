@@ -1,0 +1,7 @@
+node_modules/
+dist/
+dist-firefox/
+outputs/
+test-results/
+.jest_cache/
+*.zip
